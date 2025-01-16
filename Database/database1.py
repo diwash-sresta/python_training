@@ -66,5 +66,4 @@ while True:
     except Exception as e:
         print(f"An error occured: {e}\n")
 
-cursor.close()
 conn.close()
