@@ -1,0 +1,4 @@
+Hello ! Welcome to demofile.txt
+This file is our testing purpose.
+Good Luck!Now the file ha more contentNow the file ha more content
+Now the file ha more content/nNow the file ha more contentasdsadsadasdasdasdsadhello again& C:/Users/Msi/AppData/Local/Programs/Python/Python313/python.exe "e:/python traiing/file_handling.py"123
