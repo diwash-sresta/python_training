@@ -1,6 +1,6 @@
 import csv
 
-file_path = "data.csv"
+file_path = "E:\python_training\CSV File Handling\data1.csv"
 
 with open(file_path, mode= "r") as file:
     csv_reader = csv.reader(file)
