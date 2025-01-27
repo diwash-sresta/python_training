@@ -82,6 +82,14 @@ while True:
             
     elif options == 2:
         print("Loading  game")
+        found = False
+        
+        with open(file_path, mode="r") as file:
+                csv_reader = csv.reader(file)
+                header = next(csv_reader)
+                for row in csv_reader:
+                     if row[0] ==player_name:
+                          print("Welcom to the game")
     
     elif options == 3:
         print("Player Details")
